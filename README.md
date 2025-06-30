@@ -1,12 +1,30 @@
-# React + Vite
+# 3D Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a personal portfolio website built using React, designed to showcase my skills in modern web development, interactive UI design, and 3D graphics.
 
-Currently, two official plugins are available:
+<br/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image alt](https://github.com/AlexS997/3D-Portfolio/blob/b4e33a2142e96352e31bad171018a1648f548c83/mck.jpg)
 
-## Expanding the ESLint configuration
+<br/>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 **Technologies Used**
+- React – For building a modular, component-based single-page application (SPA).
+
+- GSAP (GreenSock Animation Platform) – For smooth, custom animations and transitions.
+
+- Three.js – To integrate interactive 3D elements directly in the browser.
+
+- Tailwind CSS – For fast and responsive styling with a utility-first approach.
+
+<br/>
+
+## ⚙️ **Features**
+
+- Fully responsive design for both desktop and mobile.
+
+- Seamless scroll-based and component-based animations.
+
+- 3D objects rendered with Three.js for enhanced visual appeal.
+
+- Clean, modular code structure for easy maintenance and scalability.
